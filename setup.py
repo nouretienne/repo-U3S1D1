@@ -4,9 +4,9 @@ with open("README.md","r") as fh:
     long_description = fh.read()
 
 setup(
-    name="prime number",
-    version="1.0",
-    author="Nour Etienne Huens de Brouwer",
+    name="prime_number",
+    version="1.1",
+    author="Nour Etienne",
     author_email="nouretienne1@gmail.com",
     description="function that establishes the prime divisors or a given number",
     long_description=long_description,
